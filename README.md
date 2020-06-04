@@ -1,4 +1,4 @@
 # plemp
 The Perfect LEMP Webserver
 
-## !!! WORK IN PROGESS !!!
+## !!! WORK IN PROGRESS !!!
