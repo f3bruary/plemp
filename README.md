@@ -1,18 +1,9 @@
----
-title: 'PLEMP | ReadMe'
----
-
 plemp
 ===
 
-:::danger
-**This project is BETA.
-Don't run it on a production server unless you know what you are doing. 
-Please report any security concerns or other suggestions by submitting an issue.**
-:::
-:::info
-**I'm not a programmer, nor a sys/net-admin. If there are bugs, please report them and I'll do my best to fix them. This project is made just for fun and learning.**
-:::
+> :exclamation: **This project is BETA. Don't run it on a production server unless you know what you are doing. Please report any security concerns or other suggestions by submitting an issue.**
+
+> :information_source: **I'm not a programmer, nor a sys/net-admin. If there are bugs, please report them and I'll do my best to fix them. This project is made just for fun and learning.**
 
 ## Table of Contents
 
@@ -48,10 +39,9 @@ The Nginx application is compiled with [ModSecurity](https://github.com/SpiderLa
 #### OWASP Core Rule Set
 The ModSecurity module is extended with the [Core Rule Set](https://github.com/SpiderLabs/owasp-modsecurity-crs/) created by OWASP. It will prevent popular attacks like Cross Site Scriptin, SQL Injection and Cross Site Request Forgery. Other attack vectors are Local/Remote File Inclusion, Remote Code Execution and Session Fixation. Read their GitHub page for more information.
 
-:::danger
-Some poorly coded themes/plugins/extensions for your CMS may trigger false positives.
+> :exclamation:Some poorly coded themes/plugins/extensions for your CMS may trigger false positives.
 Test your application before moving to production !
-:::
+
 
 #### Secure headers
 
