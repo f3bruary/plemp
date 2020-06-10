@@ -10,7 +10,7 @@ plemp
 
 ### Info
 
-plemp (Perfect Linux Nginx MYSQL & PHP), is what I call the 'ideal' webserver for basic webapplications. It uses Docker and is easy to deploy. The project was meant to be a teaching experience cause I wanted to know more about Docker. It has several security and pagespeed enhancements out of the box. Is it really perfect ? No, of course not, especially right now since it's in beta. I cannot possibly take all requirements of everybody into consideration, so it might not be suitable for everyone.
+plemp (Perfect Linux (e)Nginx MYSQL & PHP), is what I call the 'ideal' webserver for basic webapplications. It uses Docker and is easy to deploy. The project was meant to be a teaching experience cause I wanted to know more about Docker. It has several security and pagespeed enhancements out of the box. Is it really perfect ? No, of course not, especially right now since it's in beta. I cannot possibly take all requirements of everybody into consideration, so it might not be suitable for everyone.
 
 plemp is a network of 3 docker containers.
 
