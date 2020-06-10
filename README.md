@@ -5,9 +5,6 @@ plemp
 
 > :information_source: **I'm not a programmer, nor a sys/net-admin. If there are bugs, please report them and I'll do my best to fix them. This project is made just for fun and learning.**
 
-## Table of Contents
-
-[TOC]
 
 ## What is plemp ?
 
